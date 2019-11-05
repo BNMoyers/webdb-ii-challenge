@@ -17,4 +17,4 @@ server.get('/', (req, res) => {
 })
 
 //export
-module.exports = server
+module.exports = server;
